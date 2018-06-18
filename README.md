@@ -12,6 +12,10 @@ This docu helps you to:
  * Nothing more
 
 
+
+![Viva Mexico](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/510px-Flag_of_Mexico.svg.png)
+
+
 ## Step 2
 Once you are ready for some real stuff, lets take a look at the source code:
 ```javascript
