@@ -8,7 +8,7 @@ Dpcumentation is always **boring as hell**, so here is a noce picture to keep up
 
 ## Step 2
 Once you are ready for some real stuff, lets take a look at the source code:
-```
+```javascript
 $(a).each( function( index, value ) {
   alert( index + ": " + value );
 });
