@@ -17,3 +17,11 @@ $(a).each( function( index, value ) {
 ```
 <h2>A paragraph in HTML Syntax</h2>
 When you are <i>too lazy</i> to use the markdown language, just refer to good old <b>HTML</b>
+<table>
+  <tr>
+    <td>1</td><td>2</td><td>3</td>
+  </tr>
+  <tr>
+    <td>4</td><td>5</td><td>6</td>
+  </tr>
+</table>
