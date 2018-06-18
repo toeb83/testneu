@@ -4,7 +4,6 @@
 If you need to check the cheat sheet, [click here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 Documentation is always **boring as hell**, so here is a nice picture to keep up motivation:
 
-![sponge bob](https://i.imgflip.com/x41yq.jpg "Spongebob")
 
 This docu helps you to:
 
