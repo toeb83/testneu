@@ -5,6 +5,10 @@ Documentation is always **boring as hell**, so here is a nice picture to keep up
 
 ![sponge bob](https://i.imgflip.com/x41yq.jpg "Spongebob")
 
+This docu helps you to:
+
+* UUnderstand the source code
+
 
 ## Step 2
 Once you are ready for some real stuff, lets take a look at the source code:
@@ -17,14 +21,6 @@ $(a).each( function( index, value ) {
 ```
 <h2>A paragraph in HTML Syntax</h2>
 When you are <i>too lazy</i> to use the markdown language, just refer to good old <b>HTML</b>
-<<<<<<< HEAD
-
-
-# I'm messing up
-
-:metal:
-
-=======
 <table>
   <tr>
     <td>1</td><td>2</td><td>3</td>
