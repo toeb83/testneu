@@ -7,7 +7,9 @@ Documentation is always **boring as hell**, so here is a nice picture to keep up
 
 This docu helps you to:
 
-* UUnderstand the source code
+* Understand the source code
+ * Get in touch with me
+ * Nothing more
 
 
 ## Step 2
