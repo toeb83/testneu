@@ -5,6 +5,12 @@ Documentation is always **boring as hell**, so here is a nice picture to keep up
 
 ![sponge bob](https://i.imgflip.com/x41yq.jpg "Spongebob")
 
+This docu helps you to:
+
+* Understand the source code
+ * Get in touch with me
+ * Nothing more
+
 
 ## Step 2
 Once you are ready for some real stuff, lets take a look at the source code:
@@ -17,14 +23,13 @@ $(a).each( function( index, value ) {
 ```
 <h2>A paragraph in HTML Syntax</h2>
 When you are <i>too lazy</i> to use the markdown language, just refer to good old <b>HTML</b>
-<<<<<<< HEAD
-
-
 # I'm messing up your clean file!!!!
 
 :metal:
 
 =======
+=======
+>>>>>>> c6e2e656785ee31bdb7fecde709def1029b7ade6
 <table>
   <tr>
     <td>1</td><td>2</td><td>3</td>
